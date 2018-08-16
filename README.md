@@ -2,7 +2,8 @@ Fork by TruongTrau
 1. Create Privatekey 
 2. Create Publickey 
 3. Create Address
-3. Send Bitcoin transaction 
+4. Send Bitcoin transaction 
+5. HDWallet
 
 Reference
 # Programming The Blockchain in C*#*
